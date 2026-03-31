@@ -1,28 +1,8 @@
 
-body {
-  font-family: 'Segoe UI', sans-serif;
-  margin: 0;
-  background: #0f172a;
-  color: #e2e8f0;
-}
-nav {
-  background: #020617;
-  padding: 15px;
-}
-nav a {
-  color: #38bdf8;
-  margin-right: 15px;
-  text-decoration: none;
-}
-.container {
-  padding: 50px;
-}
-h1, h2 {
-  color: #38bdf8;
-}
-.card {
-  background: #020617;
-  padding: 20px;
-  margin-top: 20px;
-  border-radius: 10px;
-}
+body {font-family: 'Segoe UI', sans-serif; margin:0; background:#0f172a; color:#e2e8f0;}
+nav {background:#020617; padding:15px;}
+nav a {color:#38bdf8; margin-right:15px; text-decoration:none;}
+.container {padding:50px;}
+h1,h2 {color:#38bdf8;}
+.card {background:#020617; padding:20px; margin-top:20px; border-radius:10px;}
+img {margin-top:10px; width:200px;}
